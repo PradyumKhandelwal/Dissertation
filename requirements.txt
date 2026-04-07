@@ -7,3 +7,5 @@ tqdm==4.66.4
 pillow>=12.1.1
 fonttools>=4.60.0
 filelock>=3.20.3
+optuna
+datasets
