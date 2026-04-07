@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 # Dissertation
 MSc Data Analytics Dissertation
->>>>>>> ece9585 (Initial commit)
-
+Parsimonious Representational Learning of Financial Time Series Data
+(S&P500 - Hugging Face)
