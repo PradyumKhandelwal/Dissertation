@@ -147,7 +147,6 @@ All results are **pre-computed and verified** to match the dissertation PDF exac
 
 ---
 
-## 📞 Contact
 
 **Supervisor**: Dr. Paris Giampouras  
 **University**: University of Warwick  
